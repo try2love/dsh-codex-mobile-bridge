@@ -16,9 +16,9 @@
         "en": "Connect this Harness profile to Bridge for mobile chat, decisions and notifications."
       },
       "author": "try2love",
-      "homepage": "https://github.com/try2love/codex-mobile-bridge",
+      "homepage": "https://github.com/try2love/dsh-codex-mobile-bridge",
       "repository": {
-        "url": "https://github.com/try2love/codex-mobile-bridge"
+        "url": "https://github.com/try2love/dsh-codex-mobile-bridge"
       },
       "versions": [
         {

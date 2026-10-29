@@ -47,4 +47,4 @@
 
 ## 独立维护状态
 
-当前是本地独立仓库，尚未公开 GitHub、npm 或市场。包的 GitHub 元信息暂时指向来源项目，独立远程获授权创建后再更新为真实地址。首次导入来源见 `SOURCE.json`，维护与同步步骤见 [贡献说明](CONTRIBUTING.md)。
+独立源码仓库为 [try2love/dsh-codex-mobile-bridge](https://github.com/try2love/dsh-codex-mobile-bridge)。npm 包和可安装市场索引尚未发布，不能把源码公开视为已经上架市场。首次导入来源见 `SOURCE.json`，维护与同步步骤见 [贡献说明](CONTRIBUTING.md)。
