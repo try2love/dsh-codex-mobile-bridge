@@ -1,0 +1,34 @@
+{
+  "repository": "https://github.com/try2love/codex-mobile-bridge",
+  "commit": "c92b8496b73b11249285499cc9bc784e6158f0f1",
+  "files": {
+    "package.json": {
+      "path": "bridge/clients/deepseek/plugin/package.json",
+      "sha256": "8cb6fa229c0ab4eec21e6b174894fec0729fc474fb99a39dda4daab929b43802"
+    },
+    "index.mjs": {
+      "path": "bridge/clients/deepseek/plugin/index.mjs",
+      "sha256": "505c9e326b6c89fa3c838e542e76618939c54a2e5d0ea05a34a2bc64719414a1"
+    },
+    "cordis.patch.yml": {
+      "path": "bridge/clients/deepseek/plugin/cordis.patch.yml",
+      "sha256": "88dd63b62c0021216c2f94171bc1585e5ba19fcce739a8b6ef02b2206a1e4af0"
+    },
+    "README.md": {
+      "path": "bridge/clients/deepseek/plugin/README.md",
+      "sha256": "aeddc1faea542e504801ead55e68b5d9fb49c6adae15a2172e96426858baf65d"
+    },
+    "host.mjs": {
+      "path": "bridge/clients/deepseek/host.mjs",
+      "sha256": "14ca377eecc7b714e9c059b026181164c3cb21166d315a6d9ef9d16327bda815"
+    },
+    "LICENSE": {
+      "path": "LICENSE",
+      "sha256": "c570fcd5f3e188c401eabd5c615e13a717048deb103a79fae32ea93635307067"
+    },
+    "LICENSE.coding-mobile": {
+      "path": "bridge/clients/LICENSE.coding-mobile",
+      "sha256": "be6b0be5ea6dd268401152c7fd02817487654150f47f58cc3c70c5ecc891f7b9"
+    }
+  }
+}
